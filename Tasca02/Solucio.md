@@ -1,4 +1,4 @@
-## Solució
+## ✅ Solució
 
 # T02 - Selecció d'un SAI per una empresa client  
 **Autor:** Edu Gordo – SMXA 2  
