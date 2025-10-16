@@ -64,9 +64,7 @@ Farem “sudo nano /etc/grub.d/40_custom” i escriurem el hash que ens havia do
 
 ![imatge](IMG/12.png)
 
-
 ![imatge](IMG/13.png)
-
 
 ![imatge](IMG/14.png)
 
