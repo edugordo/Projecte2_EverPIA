@@ -63,4 +63,4 @@ L’informe ha d’estar redactat amb claredat i ben estructurat. Es pot lliurar
 
 ---
 
-[Solució Tasca02](/tasca02/Solucio.md)
+[Solució Tasca02](/Tasca02/Solucio.md/)
