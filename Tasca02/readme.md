@@ -62,3 +62,5 @@ Incloure **material de suport** com enllaços a pàgines dels productes, fulls t
 L’informe ha d’estar redactat amb claredat i ben estructurat. Es pot lliurar en format **Markdown**, PDF o Word, segons s’indiqui per part del responsable del projecte.
 
 ---
+
+[Solució Tasca02](/tasca02/Solucio.md)
